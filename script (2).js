@@ -1,4 +1,4 @@
-const apiKey = "152ea3d368214d20bbfacdba74310532";
+const apiKey = "AIzaSyAJO_pWrDiTWhMCmP5C0tFO8LMrULHIdQQ";
 const url = `https://newsapi.org/v2/top-headlines?language=en&pageSize=5&apiKey=${apiKey}`;
 
 async function getNews() {
